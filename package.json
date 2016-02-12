@@ -1,5 +1,5 @@
 {
-  "name": "sails-gulp",
+  "name": "sails-streamer",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -27,7 +27,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/timur/sails-gulp.git"
+    "url": "git://github.com/timur/sails-streamer.git"
   },
   "author": "timur",
   "license": "MIT"
