@@ -31,6 +31,6 @@
     
     window.setInterval(function(){
         getLatest();
-    }, 10);
+    }, 600);
 
 })();
